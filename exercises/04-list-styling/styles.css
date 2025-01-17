@@ -12,3 +12,9 @@ body {
 	padding: 120px;
 	width: 300px;
 }
+
+ul {
+	list-style-type: circle;
+	margin: 0;
+	padding: 0;
+}
